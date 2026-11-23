@@ -1,0 +1,8 @@
+{
+  "name": "PT. GTR Energi Nusantara — Company Profile",
+  "description": "Company profile resmi PT. GTR Energi Nusantara (GEN), badan usaha hilir minyak dan gas bumi penyedia dan distributor BBM Solar Industri (HSD) di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
